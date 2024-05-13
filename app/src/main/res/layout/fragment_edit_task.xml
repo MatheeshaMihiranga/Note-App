@@ -18,7 +18,7 @@
             android:layout_alignParentTop="true"
             android:layout_marginTop="16dp"
             android:fontFamily="@font/poppins"
-            android:text="Update Task"
+            android:text="Update Note"
             android:textStyle="bold"
             android:textColor="@color/darkblue"
             android:textSize="24sp" />
@@ -39,7 +39,7 @@
         <EditText
             android:id="@+id/editNoteDesc"
             android:layout_width="match_parent"
-            android:layout_height="400dp"
+            android:layout_height="450dp"
             android:hint="Enter the description"
             android:gravity="top"
             android:padding="12dp"
